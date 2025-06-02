@@ -10,6 +10,7 @@ class BandList {
       new Band( 'Heroes del silencio' ),
       new Band( 'Bon Jovi' ),
       new Band( 'Rio' ),
+      new Band('Arena Hash')
     ];
 
   }
